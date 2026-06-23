@@ -1,0 +1,32 @@
+## Team Paper Reviews
+
+Paper Review (Kangmin Kim)
+When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection
+Transformer-based robotic grasp detection framework
+Captures global dependencies through attention mechanism
+Improves grasp detection performance compared to CNN-based methods
+
+### Kim Seungwoo
+
+Enhancing Object Pose Estimation for RGB Images in Cluttered Scenes
+
+* Improved object pose estimation in cluttered environments
+* Focused on robust detection under challenging visual conditions
+
+---
+
+### Ahn Byungwook
+
+Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World
+
+* Domain randomization for sim-to-real transfer
+* Improved generalization of deep learning models in real-world environments
+
+---
+
+# Repository Structure
+
+/src → source code
+/results → simulation outputs
+/docs → reports and presentations
+/papers → research paper reviews
