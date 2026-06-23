@@ -4,42 +4,30 @@
 
 ---
 
-## Overview
+# Overview
 
-This project focuses on developing a smart factory logistics simulation and scheduling system for semiconductor manufacturing environments using Autonomous Mobile Robots (AMR).
+This repository contains the capstone design project focused on logistics simulation and scheduling optimization for semiconductor smart factory environments using Autonomous Mobile Robots (AMR).
 
-The objective is to optimize material transportation, improve logistics efficiency, and reduce bottlenecks in semiconductor production processes through simulation and intelligent scheduling algorithms.
-
----
-
-## Motivation
-
-Semiconductor manufacturing requires highly efficient logistics operations due to:
-
-* Complex production workflows
-* High equipment utilization requirements
-* Strict process scheduling constraints
-* Continuous material transportation between processes
-
-I aimed to improve factory efficiency by applying simulation and optimization techniques to logistics operations.
+The project aims to improve logistics efficiency, reduce transport delays, and optimize scheduling performance in semiconductor manufacturing systems.
 
 ---
+
+# Project Description
 
 ## Objectives
 
 * Simulate logistics flow in semiconductor manufacturing
-* Model transportation using autonomous mobile robots
-* Develop scheduling strategies for efficient delivery
-* Minimize transport delay and waiting time
-* Improve overall logistics efficiency
+* Design scheduling algorithms for AMR task allocation
+* Minimize transportation delay and bottlenecks
+* Improve smart factory operational efficiency
 
 ---
 
 ## Tech Stack
 
 * Python
-* Simulation Modeling
-* Scheduling Algorithm
+* Simulation
+* Scheduling
 * Optimization
 * Data Analysis
 
@@ -47,19 +35,19 @@ I aimed to improve factory efficiency by applying simulation and optimization te
 
 ## Key Features
 
-### 1. Logistics Simulation
+### Logistics Simulation
 
-* Simulated material movement across semiconductor production lines
-* Modeled transportation demand between process stations
+* Simulated material transportation across semiconductor production lines
+* Modeled logistics movement in smart factory environments
 
-### 2. Scheduling Optimization
+### Scheduling Optimization
 
-* Designed scheduling algorithms for AMR task allocation
-* Reduced bottlenecks and idle time
+* Designed scheduling strategies for autonomous mobile robots
+* Reduced waiting time and improved transport efficiency
 
-### 3. Performance Evaluation
+### Performance Evaluation
 
-Evaluated system performance using:
+Performance was evaluated using:
 
 * Total transportation time
 * Waiting time
@@ -68,35 +56,26 @@ Evaluated system performance using:
 
 ---
 
-## My Role
+# Research Achievement
 
-* Designed simulation architecture
-* Developed scheduling logic
-* Implemented optimization methods
-* Conducted performance evaluation
-* Analyzed results
+## Software Registration
 
----
+### Autonomous Mobile Robot-based Semiconductor Logistics Simulation & Scheduling
 
-## Results
-
-* Improved logistics efficiency in simulated smart factory environment
-* Reduced transportation bottlenecks
-* Demonstrated applicability of AI-driven scheduling in semiconductor manufacturing
+* Type: Software Copyright
+* Status: Under Review / Registered (2026)
 
 ---
 
-## Achievement
+# Paper Reviews
 
-* Smart Factory Capstone Design Project
-* Software Copyright Registration (2026)
+## Individual Paper Review (Kangmin Kim)
+
+### When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection
+
+* Transformer-based robotic grasp detection framework
+* Captures global dependencies through attention mechanism
+* Improves grasp detection performance compared to CNN-based methods
 
 ---
 
-## Repository Structure
-
-/data → dataset
-/src → source code
-/notebooks → experiments and analysis
-/results → simulation outputs
-/docs → reports and presentations
