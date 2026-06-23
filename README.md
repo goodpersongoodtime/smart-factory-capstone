@@ -56,26 +56,15 @@ Performance was evaluated using:
 
 ---
 
-# Research Achievement
-
-## Software Registration
-
-### Autonomous Mobile Robot-based Semiconductor Logistics Simulation & Scheduling
-
-* Type: Software Copyright
-* Status: Under Review / Registered (2026)
-
----
-
-# Paper Reviews
-
-## Individual Paper Review (Kangmin Kim)
-
-### When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection
-
-* Transformer-based robotic grasp detection framework
-* Captures global dependencies through attention mechanism
-* Improves grasp detection performance compared to CNN-based methods
-
+Research Achievement
+Research Paper
+Mobile Manipulator Dispatching Optimization Simulation Considering Gripper Performance Improvement in Semiconductor Packaging Process
+Status: In Preparation
+Patent
+Status: In Progress
+Software Registration
+Autonomous Mobile Robot-based Semiconductor Logistics Simulation & Scheduling
+Type: Software Copyright
+Status: Under Review / Registered (2026)
 ---
 
